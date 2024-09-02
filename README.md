@@ -80,7 +80,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
 
 ## Directory Structure:
-
+```bash
 TODO-APP/
 ├── backend/          # Backend code (Node.js + Express + MongoDB)
 │   ├── models/       # Mongoose models
@@ -92,3 +92,4 @@ TODO-APP/
     ├── public/       # Public files (index.html)
     ├── src/          # React components, styles, utils, etc.
     └── ...           # Other frontend files
+```
